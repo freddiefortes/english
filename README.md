@@ -2,8 +2,8 @@
 # grammar
 ## beginner
 Syllabus
-- [x] 1 Articles: a, an, the
-- [v] 2 “The” or No Article
+- [] 1 Articles: a, an, the
+- [] 2 “The” or No Article
 - [] 3 The Verb To Be + Adjectives
 - [] 4 Present Simple
 - [] 5 Past Progressive and Past Simple
