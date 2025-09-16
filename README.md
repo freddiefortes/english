@@ -2,11 +2,11 @@
 # grammar
 ## beginner
 Syllabus
-- [] 1 Articles: a, an, the
-- [] 2 “The” or No Article
-- [] 3 The Verb To Be + Adjectives
-- [] 4 Present Simple
-- [] 5 Past Progressive and Past Simple
+- [x] 1 Articles: a, an, the
+- [x] 2 “The” or No Article
+- [x] 3 The Verb To Be + Adjectives
+- [x] 4 Present Simple
+- [x] 5 Past Progressive and Past Simple
 - [] 6 Present Simple: Have Got
 - [] 7 Present Simple: To Be
 - [] 8 There is/are
