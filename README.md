@@ -10,9 +10,9 @@ Syllabus
 - [x] 6 Present Simple: Have Got
 - [x] 7 Present Simple: To Be
 - [x] 8 There is/are
-- [] 9 Prepositions of Time: at, in, on
-- [] 10 Prepositions of Place: at, in, on
-- [] 11 Pronouns: Subject and Object
+- [x] 9 Prepositions of Time: at, in, on
+- [x] 10 Prepositions of Place: at, in, on
+- [x] 11 Pronouns: Subject and Object
 - [] 12 Present Progressive
 - [] 13 Question Words
 - [] 14 Possessive Adjectives
