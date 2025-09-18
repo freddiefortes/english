@@ -13,9 +13,9 @@ Syllabus
 - [x] 9 Prepositions of Time: at, in, on
 - [x] 10 Prepositions of Place: at, in, on
 - [x] 11 Pronouns: Subject and Object
-- [] 12 Present Progressive
-- [] 13 Question Words
-- [] 14 Possessive Adjectives
+- [x] 12 Present Progressive
+- [x] 13 Question Words
+- [x] 14 Possessive Adjectives
 
 
 # attribution
