@@ -1,6 +1,18 @@
 *english skills progress tracker*
 # grammar
-## beginner
+## High Beginner
+Syllabus
+- [] Adjectives ending in -ed and -ing
+- [] Comparative Adjectives
+- [] Infinitives of Purpose
+- [] Verbs Followed by -ing or Infinitive
+- [] Imperatives
+- [] Gerunds
+- [] Nouns: count vs. noncount
+- [] Possessives: ’s
+- [] Quantifiers
+
+## Beginner
 Syllabus
 - [x] 1 Articles: a, an, the
 - [x] 2 “The” or No Article
@@ -16,7 +28,6 @@ Syllabus
 - [x] 12 Present Progressive
 - [x] 13 Question Words
 - [x] 14 Possessive Adjectives
-
 
 # attribution
 course: [Cambly](https://www.cambly.com)
