@@ -2,10 +2,10 @@
 # grammar
 ## High Beginner
 Syllabus
-- [] Adjectives ending in -ed and -ing
-- [] Comparative Adjectives
-- [] Infinitives of Purpose
-- [] Verbs Followed by -ing or Infinitive
+- [x] Adjectives ending in -ed and -ing
+- [x] Comparative Adjectives
+- [x] Infinitives of Purpose
+- [x] Verbs Followed by -ing or Infinitive
 - [] Imperatives
 - [] Gerunds
 - [] Nouns: count vs. noncount
