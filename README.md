@@ -3,9 +3,9 @@
 
 ## Intermediate
 Syllabus
-- [] Modals: Deductions about the Past
-- [] Modals: Deductions about the Present
-- [] Modals: Permission and Obligation
+- [x] Modals: Deductions about the Past
+- [x] Modals: Deductions about the Present
+- [x] Modals: Permission and Obligation
 - [] Future Time: will, be going to, and present progressive
 - [] Past Habits: used to, would, past simple
 - [] Present Perfect
