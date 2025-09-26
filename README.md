@@ -6,9 +6,9 @@ Syllabus
 - [x] Modals: Deductions about the Past
 - [x] Modals: Deductions about the Present
 - [x] Modals: Permission and Obligation
-- [] Future Time: will, be going to, and present progressive
-- [] Past Habits: used to, would, past simple
-- [] Present Perfect
+- [x] Future Time: will, be going to, and present progressive
+- [x] Past Habits: used to, would, past simple
+- [x] Present Perfect
 - [] Past Perfect
 - [] Phrasal Verbs
 - [] Stative Verbs
