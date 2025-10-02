@@ -9,7 +9,7 @@ Syllabus
 - [x] Future Time: will, be going to, and present progressive
 - [x] Past Habits: used to, would, past simple
 - [x] Present Perfect
-- [] Past Perfect
+- [x] Past Perfect
 - [] Phrasal Verbs
 - [] Stative Verbs
 - [] Contractions
