@@ -1,6 +1,23 @@
 *english skills progress tracker*
 # grammar
 
+## High Intermediate
+Syllabus
+- [] Conditionals: Zero, First, and Second
+- [] Conditionals: Third and Mixed
+- [] Future Progressive and Future Perfect
+- [] Passives
+- [] Present Perfect Simple and Progressive
+- [] Present Perfect: Just, Yet, Still, and Already
+- [] Relative Clauses: Defining Relative Clauses
+- [] Relative Clauses: Non-Defining Relative Clauses
+- [] Verbs Followed by -ing or Infinitive to Change Meaning
+- [] Contrasting Ideas: Although, Despite, and Others
+- [] Intensifiers: So and Such
+- [] Using ‘as’ and ‘like’
+- [] Using ‘enough’
+- [] Wishes: ‘wish’ and ‘if only’
+
 ## Intermediate
 Syllabus
 - [x] Modals: Deductions about the Past
@@ -18,8 +35,8 @@ Syllabus
 - [x] Reflexive Pronouns
 - [x] Reported Speech: Statements
 - [x] Reported Speech: Questions
-- [] Reported Speech: Reporting Verbs
-- [] Tag Questions
+- [x] Reported Speech: Reporting Verbs
+- [x] Tag Questions
 
 ## High Beginner
 Syllabus
