@@ -10,14 +10,14 @@ Syllabus
 - [x] Past Habits: used to, would, past simple
 - [x] Present Perfect
 - [x] Past Perfect
-- [] Phrasal Verbs
-- [] Stative Verbs
-- [] Contractions
-- [] Gradable and Non-gradable Adjectives
-- [] Modifying Comparatives
-- [] Reflexive Pronouns
-- [] Reported Speech: Statements
-- [] Reported Speech: Questions
+- [x] Phrasal Verbs
+- [x] Stative Verbs
+- [x] Contractions
+- [x] Gradable and Non-gradable Adjectives
+- [x] Modifying Comparatives
+- [x] Reflexive Pronouns
+- [x] Reported Speech: Statements
+- [x] Reported Speech: Questions
 - [] Reported Speech: Reporting Verbs
 - [] Tag Questions
 
