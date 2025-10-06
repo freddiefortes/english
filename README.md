@@ -1,4 +1,4 @@
-*english skills progress tracker*
+*English skills progress tracker*
 # grammar
 
 ## Beginner
@@ -26,7 +26,7 @@ Syllabus
 - [x] Verbs Followed by -ing or Infinitive
 - [x] Imperatives
 - [x] Gerunds
-- [x] Nouns: count vs. noncount
+- [x] Nouns: count vs. non-count
 - [x] Possessives: ’s
 - [x] Quantifiers
 
@@ -59,13 +59,25 @@ Syllabus
 - [x] Present Perfect Simple and Progressive
 - [x] Present Perfect: Just, Yet, Still, and Already
 - [x] Relative Clauses: Defining Relative Clauses
-- [] Relative Clauses: Non-Defining Relative Clauses
-- [] Verbs Followed by -ing or Infinitive to Change Meaning
-- [] Contrasting Ideas: Although, Despite, and Others
-- [] Intensifiers: So and Such
-- [] Using ‘as’ and ‘like’
-- [] Using ‘enough’
-- [] Wishes: ‘wish’ and ‘if only’
+- [x] Relative Clauses: Non-Defining Relative Clauses
+- [x] Verbs Followed by -ing or Infinitive to Change Meaning
+- [x] Contrasting Ideas: Although, Despite, and Others
+- [x] Intensifiers: So and Such
+- [x] Using ‘as’ and ‘like’
+- [x] Using ‘enough’
+- [x] Wishes: ‘wish’ and ‘if only’
+
+## Advanced
+Syllabus
+- [] Lesson 1: Ellipsis
+- [] Lesson 2: Emphasis: cleft sentences, inversion and auxiliaries
+- [] Lesson 3: Inversion After Negative Adverbials
+- [] Lesson 4: Inversion and Conditionals
+- [] Lesson 5: Modals: Probability
+- [] Lesson 6: Participle Clauses
+- [] Lesson 7: Patterns With Reporting Verbs
+- [] Lesson 8: Unreal Time
+- [] Lesson 9: Word Order In Phrasal Verbs
 
 # attribution
 course: [Cambly](https://www.cambly.com)
