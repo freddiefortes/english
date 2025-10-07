@@ -69,10 +69,10 @@ Syllabus
 
 ## Advanced
 Syllabus
-- [] Lesson 1: Ellipsis
-- [] Lesson 2: Emphasis: cleft sentences, inversion and auxiliaries
-- [] Lesson 3: Inversion After Negative Adverbials
-- [] Lesson 4: Inversion and Conditionals
+- [x] Lesson 1: Ellipsis
+- [x] Lesson 2: Emphasis: cleft sentences, inversion and auxiliaries
+- [x] Lesson 3: Inversion After Negative Adverbials
+- [x] Lesson 4: Inversion and Conditionals
 - [] Lesson 5: Modals: Probability
 - [] Lesson 6: Participle Clauses
 - [] Lesson 7: Patterns With Reporting Verbs
