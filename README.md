@@ -73,11 +73,11 @@ Syllabus
 - [x] Lesson 2: Emphasis: cleft sentences, inversion and auxiliaries
 - [x] Lesson 3: Inversion After Negative Adverbials
 - [x] Lesson 4: Inversion and Conditionals
-- [] Lesson 5: Modals: Probability
-- [] Lesson 6: Participle Clauses
-- [] Lesson 7: Patterns With Reporting Verbs
-- [] Lesson 8: Unreal Time
-- [] Lesson 9: Word Order In Phrasal Verbs
+- [x] Lesson 5: Modals: Probability
+- [x] Lesson 6: Participle Clauses
+- [x] Lesson 7: Patterns With Reporting Verbs
+- [x] Lesson 8: Unreal Time
+- [x] Lesson 9: Word Order In Phrasal Verbs
 
 # attribution
 course: [Cambly](https://www.cambly.com)
