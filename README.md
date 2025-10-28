@@ -14,7 +14,7 @@
 
 - [] Word Forms and Simple Present Tense
     - [x] Module 1
-    - [] Module 2
+    - [x] Module 2
     - [] Module 3
     - [] Module 4
 - [] Questions, Present Progressive and Future Tenses
