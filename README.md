@@ -12,12 +12,12 @@
 **Topics covered**:
 `nouns` `proper nouns` `plural forms and singular forms` `articles "a" and "an"` `BE verb` `other verbs in the simple present` `some spelling rules` `negative forms`
 
-- [] Word Forms and Simple Present Tense
-    - [x] Module 1
-    - [x] Module 2
+- [x] Word Forms and Simple Present Tense
+- [] Questions, Present Progressive and Future Tenses
+    - [] Module 1
+    - [] Module 2
     - [] Module 3
     - [] Module 4
-- [] Questions, Present Progressive and Future Tenses
 - [] Simple Past Tense
 
 # attribution
