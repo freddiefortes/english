@@ -14,11 +14,38 @@
 
 - [x] Word Forms and Simple Present Tense
 - [x] Questions, Present Progressive and Future Tenses
-- [] Simple Past Tense
+- [x] Simple Past Tense
+
+# Learn English: Intermediate Grammar Specialization
+*coursera - UCI*
+
+**Topics covered**:
+`present perfect` `present perfect progressive` `past perfect` `past perfect progressive` `common modal verbs` `adjectives` `adjective clauses` `tips for tricky grammar of everyday` `grammar scrapbook`
+
+- [] Perfect Tenses and Modals
     - [] Module 1
     - [] Module 2
     - [] Module 3
     - [] Module 4
+    - [] Module 5
+- [] Adjectives and Adjective Clauses
+    - [] Module 1
+    - [] Module 2
+    - [] Module 3
+    - [] Module 4
+    - [] Module 5
+- [] Tricky English Grammar
+    - [] Module 1
+    - [] Module 2
+    - [] Module 3
+    - [] Module 4
+    - [] Module 5
+- [] Intermediate Grammar Project
+    - [] Module 1
+    - [] Module 2
+    - [] Module 3
+    - [] Module 4
+    - [] Module 5
 
 # attribution
 
@@ -27,3 +54,4 @@
 - [Cambly](https://www.cambly.com)
 - [The Pronunciation of American English Specialization](https://www.coursera.org/specializations/american-english-pronunciation)
 - [Learn English: Beginning Grammar Specialization](https://www.coursera.org/specializations/learn-english-beginning-grammar)
+- [Learn English: Intermediate Grammar Specialization](https://www.coursera.org/specializations/intermediate-grammar)
