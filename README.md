@@ -23,8 +23,8 @@
 `present perfect` `present perfect progressive` `past perfect` `past perfect progressive` `common modal verbs` `adjectives` `adjective clauses` `tips for tricky grammar of everyday` `grammar scrapbook`
 
 - [] Perfect Tenses and Modals
-    - [] Module 1
-    - [] Module 2
+    - [x] Module 1
+    - [x] Module 2
     - [] Module 3
     - [] Module 4
     - [] Module 5
