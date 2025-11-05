@@ -25,7 +25,7 @@
 - [] Perfect Tenses and Modals
     - [x] Module 1
     - [x] Module 2
-    - [] Module 3
+    - [x] Module 3
     - [] Module 4
     - [] Module 5
 - [] Adjectives and Adjective Clauses
@@ -48,8 +48,6 @@
     - [] Module 5
 
 # attribution
-
-*courses*
 
 - [Cambly](https://www.cambly.com)
 - [The Pronunciation of American English Specialization](https://www.coursera.org/specializations/american-english-pronunciation)
