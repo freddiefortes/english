@@ -22,12 +22,7 @@
 **Topics covered**:
 `present perfect` `present perfect progressive` `past perfect` `past perfect progressive` `common modal verbs` `adjectives` `adjective clauses` `tips for tricky grammar of everyday` `grammar scrapbook`
 
-- [] Perfect Tenses and Modals
-    - [x] Module 1
-    - [x] Module 2
-    - [x] Module 3
-    - [x] Module 4
-    - [] Module 5
+- [x] Perfect Tenses and Modals
 - [] Adjectives and Adjective Clauses
     - [] Module 1
     - [] Module 2
