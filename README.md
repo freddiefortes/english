@@ -24,10 +24,10 @@
 
 - [x] Perfect Tenses and Modals
 - [] Adjectives and Adjective Clauses
-    - [] Module 1
-    - [] Module 2
-    - [] Module 3
-    - [] Module 4
+    - [x] Module 1
+    - [x] Module 2
+    - [x] Module 3
+    - [x] Module 4
     - [] Module 5
 - [] Tricky English Grammar
     - [] Module 1
